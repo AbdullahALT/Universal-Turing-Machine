@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Files {
+	//Need to add documentation!
 	private String path;
 	private BufferedWriter bufferWriter;
 	private BufferedReader bufferReader;
